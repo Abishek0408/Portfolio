@@ -10,7 +10,7 @@ const Navbar = () => {
             className="mx-auto my-2 mb-8  w-14 h-14 rounded-full object-cover transform transition-transform duration-300 hover:scale-105"
           />
         </div>
-        <div className="space-x-6">
+        <div className="space-x-6 menu">
           <a href="#hero" className="hover:text-red-400">
             Home
           </a>
