@@ -19,7 +19,7 @@ const Experience = () => {
                 technologies.
               </p>
             </li>
-            {/* <li className="bg-gray-800 h-100 w-100 p-6 rounded-lg hover:shadow-lg transform transition-transform duration-300 hover:scale-105">
+            <li className="bg-gray-800 h-100 w-100 p-6 rounded-lg hover:shadow-lg transform transition-transform duration-300 hover:scale-105">
               <h3 className="text-2xl font-bold  text-green-400 mb-4">
                 Web Developer Intern at AstroWeb Solutions, Madurai
               </h3>
@@ -33,7 +33,7 @@ const Experience = () => {
                 new technologies. Worked with HTML, CSS, JavaScript, PHP, and
                 MySQL to build and maintain web applications.
               </p>
-            </li> */}
+            </li>
           </ul>
         </div>
       </div>

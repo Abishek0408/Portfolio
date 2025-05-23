@@ -8,13 +8,15 @@ const project = [
       "Next.js, Tailwind CSS, ReactRouterDOM, Express.js, Node.js, MySQL with Prisma ORM ",
     url: "https://eduxpert-lake.vercel.app/",
   },
-  // {
-  //   id: 2,
-  //   title: "Personal Portfolio",
-  //   description: "It shows the personal infos about me.",
-  //   technologies: "React with Tailwind CSS",
-  //   image: pr1,
-  // // },
+  {
+    id: 2,
+    title: "Analytics Dashboard",
+    description:
+      "A comprehensive web-based dashboard designed to help administrators visualize, manage, and analyze key business data in real-time.",
+    technologies:
+      "React.js + Tailwind CSS (Frontend), Node.js (Backend), MySQL – Aiven cloud (Database), Syncfusion (Charts & UI Components).",
+    url: "https://dashboard-eta-lemon-75.vercel.app/",
+  },
   // {
   //   id: 3,
   //   title: "Project 3",

@@ -25,7 +25,7 @@ const Hero = () => {
             Contact Me
           </button>
         </a>
-        <a href="https://drive.google.com/file/d/1ZTh6AQPWQxlnPGE4h3HP40s2vKn3t5Og/view?usp=drive_link">
+        <a href="https://drive.google.com/file/d/1nZNQCw9a4kHdrp9TCEBdu4Eq73Yh6spA/view?usp=sharing">
           <button className="bg-gradient-to-r from-red-500 to-purple-500  text-white px-4 py-2 rounded-full transform transition-transform duration-300 hover:scale-105">
             Resume
           </button>
